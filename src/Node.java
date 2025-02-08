@@ -4,6 +4,6 @@ public class Node {     // Nodes have 2 part   :
 
     public Node (int data) {
         this.data = data ;
-        this.next = null ;
+        this.next = null ; // yes
     }
 }
