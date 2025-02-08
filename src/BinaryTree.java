@@ -1,5 +1,5 @@
 class TreeNode {
-    int data;
+    int data; //
     TreeNode leftChild;
     TreeNode rightChild;
 
